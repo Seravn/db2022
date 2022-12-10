@@ -11,17 +11,29 @@
 > 
 Bild från (https://www.npr.org/2022/05/16/1099064064/super-flower-blood-moon-reaction) 
 ---
-## a simple CRUD API node.js and express.
----
-### H3
-***bold text***
 
-#`  npm i express `
-##` npm i nodemon   `
-###` npm i uuid  `
+---
+### a simple CRUD API node.js and express.
+
+>*** the data consists of different colors and shades. ex: ***
+> {
+"firstColor": " yellow"
+"shade":  "light"
+}
+{
+"secondColor": "green"
+"shade": "dark"
+}
+
+-------------------------------------------------
+
+following steps to get started:
+> ` npm i express `
+> ` npm i nodemon`
+> ` npm i uuid  `
 ---
 ___
 ---
 == highlight ==
-> following steps to get started:
+
 
