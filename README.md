@@ -15,12 +15,15 @@ Bild från (https://www.npr.org/2022/05/16/1099064064/super-flower-blood-moon-re
 ---
 ### a simple CRUD API node.js and express.
 
->*** the data consists of different colors and shades. ex: ***
+> *** the data consists of different colors and shades. 
+ex: ***
+
 > {
 "firstColor": " yellow"
 "shade":  "light"
 }
-{
+
+> {
 "secondColor": "green"
 "shade": "dark"
 }
@@ -28,9 +31,13 @@ Bild från (https://www.npr.org/2022/05/16/1099064064/super-flower-blood-moon-re
 -------------------------------------------------
 
 following steps to get started:
+
 > ` npm i express `
+
 > ` npm i nodemon`
+
 > ` npm i uuid  `
+
 ---
 ___
 ---
