@@ -16,8 +16,11 @@ Bild från (https://www.npr.org/2022/05/16/1099064064/super-flower-blood-moon-re
 ### H3
 ***bold text***
 
-`npm install`
+` npm i express `
+` npm i nodemon   `
+` npm i uuid  `
 ---
+___
 ---
 == highlight ==
 > following steps to get started:
