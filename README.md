@@ -13,9 +13,28 @@ Bild från (https://www.npr.org/2022/05/16/1099064064/super-flower-blood-moon-re
 ---
 
 ---
-### A simple CRUD API node.js and express.
+### A simple CRUD API with node.js and express.
 
 ![CRUD](https://w3programmers.com/bangla/wp-content/uploads/2017/12/CRUD.png)
+
+---------------------
+
+following steps to get started:
+
+> ` npm i express `
+
+> ` npm i nodemon`
+
+> ` npm i uuid  `
+
+
+
+
+
+> Loopback adress: `` https://localhost:3000/api/color ``
+
+
+
 
 > *the data consists of different colors and shades. 
 ex:*
@@ -39,17 +58,7 @@ ex:*
 ```
 -------------------------------------------------
 
-following steps to get started:
-
-> ` npm i express `
-
-> ` npm i nodemon`
-
-> ` npm i uuid  `
-
----
 
 
- ==highlight==
 
 
