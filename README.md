@@ -15,8 +15,7 @@ Bild från (https://www.npr.org/2022/05/16/1099064064/super-flower-blood-moon-re
 ---
 ### A simple CRUD API node.js and express.
 
-<img src="https://w3programmers.com/bangla/wp-content/uploads/2017/12/CRUD.png" alt="CRUD"
->
+![CRUD](https://w3programmers.com/bangla/wp-content/uploads/2017/12/CRUD.png)
 
 > *the data consists of different colors and shades. 
 ex:*
